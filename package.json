@@ -1,0 +1,21 @@
+{
+  "name": "mapamundi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3": "^4.12.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "topojson": "^3.0.2",
+    "world-atlas": "^1.1.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
